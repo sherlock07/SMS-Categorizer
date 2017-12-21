@@ -15,3 +15,7 @@
 
 
 * *Stopwords.txt and myfile3.txt, the text files which consist of the stopwords (common words ) in the english language and the messages we acquired from the individual phones towards formation of model respectively*
+
+* *ReadSms Custom app build to extract out the text messages from personal android phones*
+
+* *Sms Categroizer - A custom app build which sends every incoming messages to the phone  onto the server and by analyzing the response recieved shifts entire message to one category or another*
